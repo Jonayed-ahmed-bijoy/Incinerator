@@ -2,7 +2,7 @@
 Web development course
 
 <br>
-Md Jonayed Ahmed
+Md Jonayed Ahmed bijoy
 <br>
 Shampad Chowdhury
 <br>
